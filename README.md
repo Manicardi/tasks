@@ -1,5 +1,16 @@
 # todo
 
+
+## Project clone
+```
+git clone https://github.com/Manicardi/tasks.git
+```
+
+## Project folder
+```
+cd tasks
+```
+
 ## Project setup
 ```
 npm install
